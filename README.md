@@ -1,10 +1,20 @@
-Sample application for developing slides for GMU Rails course.
+Sample application for CaseCommons DevOps test
 
-Steps:
+Hello,
 
-* Clone the repository
-* Run `rake db:setup` in order to create your database and populate it with the seed data
-* Run `rails server` (make sure you aren't running another server, or run on a different port, e.g. `rails s --port 3500`
-* Navigate to http://localhost:3000 (assuming you ran it on the default port 3000)
+This is a tiny sample application we like to have our DevOps candidates deploy as a test
 
-Also note that we've incorporated Twitter Bootstrap ( http://getbootstrap.com ) for CSS layout and styling. We also have a custom form helper (`bootstrap_form_field`) which does some nice styling during form validation. In the Gemfile, you'll see that we added the 'bootstrap-sass' Gem which lets you write Sass instead of plain CSS for Bootstrap.
+You can:
+
+* Use any platform you like
+* Use any configuration management language or framework you like
+
+You must:
+
+* Use postgres as the datastore and ensure the datastore is on a _separate_ machine from the application
+
+We need:
+
+* A link to your repository that has infrastructure-as-code that deploys and hosts this application
+* A brief description of the infrastructure-as-code and how we can apply it
+* Access to the postgres endpoint and whatever access is available to the node running the application
