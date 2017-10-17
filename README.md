@@ -1,19 +1,19 @@
-#Sample application for CaseCommons DevOps test
+# Sample application for CaseCommons DevOps test
 
 Hello,
 
 This is a tiny sample application we like to have our DevOps candidates deploy as a test
 
-##You can:
+## You can:
 
 * Use any platform you like
 * Use any configuration management language or framework you like
 
-##You must:
+## You must:
 
 * Use postgres as the datastore and ensure the datastore is on a _separate_ machine from the application
 
-##We need:
+## We need:
 
 * A link to your repository that has infrastructure-as-code that deploys and hosts this application
 * A brief description of the infrastructure-as-code and how we can apply it
