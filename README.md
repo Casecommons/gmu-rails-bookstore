@@ -11,7 +11,7 @@ This is a tiny sample application we like to have our DevOps candidates deploy a
 
 ## You must:
 
-* Use postgres as the datastore and ensure the datastore is on a _separate_ machine from the application
+* Use postgres as the datastore and ensure the datastore is on a **separate** machine (or service) from the application
 
 ## We need:
 
