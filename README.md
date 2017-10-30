@@ -20,5 +20,3 @@ We care more about your thinking and approach than you fully completing this tas
 * A link to your repository that has infrastructure-as-code that deploys and hosts this application
 * A brief description of the infrastructure-as-code and how we can apply it
 * Access to the postgres endpoint and whatever access is available to the node running the application
-
-## W
